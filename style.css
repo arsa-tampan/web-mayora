@@ -10,7 +10,7 @@
 
 body {
     /* background: linear-gradient(#b8abea,#907cd4,#6c4be2); */
-    background: url("images/ok.png");
+    background: url("ok.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
